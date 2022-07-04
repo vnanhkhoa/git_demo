@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-KhoaVNA1 - ABC
-=======
 Demo git
 KhoaVNA1
 Võ Ngọc Anh Khoa
->>>>>>> 7a14c7b3b25e2071c02a4148ccb03337be5580de
